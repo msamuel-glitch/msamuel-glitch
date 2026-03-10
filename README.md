@@ -1,31 +1,55 @@
-## 👋 Hi, I’m Samuel
+# Mugisha Samuel — Operations & Growth Data Builder
 
-Business & Data student at Albert School X Ecole des Mines | Interested in Data Analytics, Business Intelligence, and Growth Strategy
+Year 1 · BSc International Business & Data Analytics · Albert School × Mines Paris PSL
 
-## Technical Skills
+I help scaling teams eliminate operational inefficiencies by transforming fragmented data into automated workflows and decision dashboards — so they reduce costs and grow without increasing headcount.
 
--Languages: Python, SQL, Java Script, HTML/CSS
+---
 
--Tools: Pandas, Excel (VLOOKUP, Pivot Tables, Macros), Tableau, Git
+## Tech Stack
 
--Concepts: Data Analysis, Dashboards, KPI Tracking, Business Strategy\n
+**Languages:** Python · SQL · JavaScript · HTML/CSS
+
+**Libraries & Tools:** Pandas · Flask · React · Matplotlib · Tableau · Power BI · Git
+
+**Concepts:** Operational Analytics · KPI Dashboard Design · Workflow Automation · Geospatial Analysis · Business Strategy
+
+---
 
 ## Featured Projects
 
-| Projects                                 | Description                                                         | Tech           |
-| --------------------------------------- | ------------------------------------------------------------------- | -------------- |
-| **Data Analyst – Student Consultant(Generali)** | Analyzed accident datasets to identify cost-driving trends | Excel, Python(Pandas)  |
-| **Data Analyst – Student Consultant(La Poste )**     | Evaluated economic impact of national accident data. | Python, Excel  |
-| **Strategy Analyst – Student Innovation Challenge(BOSTON CONSULTING GROUP)**| Designed revenue model for a pet-event mobile app concept.| Data, Strategy |
+### BloomPath — AI Recruitment Intelligence Platform
+> Automated end-to-end candidate-job matching system built for Grandir (150+ nurseries across France)
+- Processed **42,681 candidate records** — reduced matching time from 30 days to real-time
+- Built Flask backend + React frontend, deployed on Render & Vercel
+- Stack: Python · Flask · React · Pandas · Vercel · Render
 
-## What I'm Working On
--Data analytics portfolio building
+### Generali — Insurance Risk Analytics
+> Accident dataset analysis to identify cost-driving trends across France
+- Analyzed **500,000+ records** · surfaced patterns that informed a **26% cost reduction** strategy
+- Stack: Python · Pandas · Matplotlib · Excel
 
--Python project automation
+### La Poste — Logistics Operations Analytics
+> Geospatial analysis of national accident and logistics disruption data
+- Mapped correlations between regional workflows and accident rates
+- Built KPI dashboards for real-time disruption tracking across high-risk zones
+- Stack: Python · Pandas · Geospatial Analysis · Excel
 
--Business & strategy case studies
+### Carrefour Voyages — Growth Strategy Analysis
+> Sales data analysis for 2024–2025 to identify revenue growth opportunities
+- Stack: Python · Jupyter · Pandas
+
+---
+
+## Currently Building
+- Deepening Python automation & workflow engineering
+- Expanding geospatial analytics capabilities
+- Building a portfolio website
+
+---
 
 ## Contact
 
-📧 Email: msamuel@albertschool.com
-🔗 LinkedIn: https://www.linkedin.com/in/mugisha-samuel-ab74992a6?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+📧 msamuel@albertschool.com
+
+🔗 [LinkedIn — Mugisha Samuel](https://www.linkedin.com/in/mugisha-samuel-ab74992a6)
