@@ -1,6 +1,6 @@
 # Mugisha Samuel — Operations & Growth Data Builder
 
-Year 1 · BSc International Business & Data Analytics · Albert School × Mines Paris PSL
+BSc International Business & Data Analytics · Albert School × Mines Paris PSL
 
 I help scaling teams eliminate operational inefficiencies by transforming fragmented data into automated workflows and decision dashboards — so they reduce costs and grow without increasing headcount.
 
