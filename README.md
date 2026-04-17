@@ -18,6 +18,15 @@ I help scaling teams eliminate operational inefficiencies by transforming fragme
 
 ## Featured Projects
 
+### Sephora France x Albert School — Brand Affinity Intelligence
+> End-to-end ML system predicting which brand a Sephora customer will buy next, before they know it themselves.
+- Engineered a proprietary **Explorer Index** across 50,805 customers to score brand-switching willingness — a metric competitors like Nocibe don't have
+- Built a 3-stage filtration pipeline: 8,357 raw rules reduced to **11 guardrail-clean, CRM-deployable brand pairs**
+- Designed a **Do-Not-Recommend Layer** protecting 6,995 VIP customers and EUR 491,476 in LTV from bad recommendations
+- Delivered **+15.8% basket lift** (EUR 72.53 to EUR 84.02) validated on Oct-Dec holdout data across 385,879 transactions
+- Deployed findings as a **live 14-slide interactive deck** at [sephora-luxury-terminal.onrender.com](https://sephora-luxury-terminal.onrender.com)
+- Stack: Python · Pandas · scikit-learn · FP-Growth · React · Vite · Render
+
 ### BNP Paribas — Hobart Intelligence Platform
 > Operational intelligence system for BNP Paribas CIB2S analyzing the Hobart ticketing system across business lines
 - Built full ML pipeline: raw CSV → 1.6GB SQLite → feature engineering → predictive modeling (scikit-learn)
